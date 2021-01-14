@@ -8,7 +8,7 @@ This project should help researchers, pentesters, bounty-hunters to expand the r
  
  
 # Story behind WhereToGo project
-> Due Pentes activities it was discovered leaked account of the 
+> Due Penetration testing activities for one customer it was discovered leaked employee credentials. First of all thouse crdentials were checked on the corporate environment but later on I realized that such credentials could work on other important cloud services. I started collecting such a list of popular technological services which might have high value in case of improper access.  
 >
  
  
