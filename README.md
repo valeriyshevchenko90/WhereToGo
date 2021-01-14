@@ -13,22 +13,24 @@ This project should help researchers, pentesters, bounty-hunters to expand the r
  
  
  
-Service Name | Trusted platforms
+Service Name | Trusted login providers
 ------------ | -------------
-Gitlab | Google, Salesforce, Github, Bitbucket, Twitter
+[Gitlab](https://gitlab.com/users/sign_in) | Google, Salesforce, Github, Bitbucket, Twitter
+[Travis CI](https://travis-ci.com/signin) | Github, Bitbucket, Gitlab, Assembla
+[Grafana.com](https://grafana.com/login) | Google, Github, Microsoft
+[Sentry](https://sentry.io/auth/login/) | Google, Github, Azure DevOps
+[Slack](https://slack.com/signin#/signin) | Google
+[Raygun](https://app.raygun.com/) | Github, Twitter, Facebook, Google
+[Datadog](https://app.datadoghq.com/) | Google
+[Atlassian](https://www.atlassian.com/) | Google, Microsoft, Apple
+[Trello](https://trello.com/login) | Google, Microsoft, Apple
+[Trailblazer](https://trailblazers.salesforce.com/) | Salesforce
+[Bitbucket](https://bitbucket.org/product) | Google, Microsoft, Apple
+[Elastic Cloud](https://cloud.elastic.co/) | Google, Microsoft
+[Netdata Cloud](https://app.netdata.cloud/) | Google, Github
+[Jetbrains](https://hub.jetbrains.com/) | Bitbucket
 [GitHub](http://github.com) | -
-Travis CI | Github, Bitbucket, Gitlab, Assembla
-Grafana.com | Google, Github, Microsoft
-Sentry.io | Google, Github, Azure DevOps
-Slack | Google
-Raygun.com | Github, Twitter, Facebook, Google
-Datadog | Google
-Atlassian | Google, Microsoft, Apple
-Trello | Google, Microsoft, Apple
-Trailblazer | Salesforce
-Bitbucket | Google, Microsoft, Apple
-cloud.elastic.co | Google, Microsoft
-Netdata.cloud | Google, Github
-hub.jetbrains.com | Bitbucket
+[GitHub](http://github.com) | -
+[GitHub](http://github.com) | -
 
 ##### ⚠️ Disclaimer The authors of this document take no responsibility for correctness. This project is merely here to help guide security researchers towards determining whether something is vulnerable or not, but does not guarantee accuracy. This project heavily relies on contributions from the public. The information included at this page is for educational purposes. 
