@@ -6,7 +6,10 @@ Due to security assessments of different projects, I found different leaked/expo
 This project should help researchers, pentesters, bounty-hunters to expand the risks of compromised accounts in the corporate environment.
 
 
-
+Service Name | Trusted platforms
+------------ | -------------
+Gitlab | Google, Salesforce, Github, Bitbucket, Twitter
+Travis | Bitbucket
 
 
 
