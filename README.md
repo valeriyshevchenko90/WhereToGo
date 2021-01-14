@@ -12,7 +12,7 @@ This project should help researchers, pentesters, bounty-hunters to expand the r
 >
  
  
- 
+# 
 Service Name | Trusted login providers
 ------------ | -------------
 [Gitlab](https://gitlab.com/users/sign_in) | Google, Salesforce, Github, Bitbucket, Twitter
