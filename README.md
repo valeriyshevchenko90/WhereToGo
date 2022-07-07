@@ -38,10 +38,10 @@ Service Name | Trusted login providers
 [New Relic](https://newrelic.com/) | -
 [Hotjar](https://insights.hotjar.com/login) | Google
 [Splunk](https://www.splunk.com/) | -
-[Outlook](http://github.com) | -
-[Azure](http://github.com) | -
-[AWS](http://github.com) | -
-[Pivotal Tracker](http://github.com) | -
+[Outlook](https://www.office.com/) | -
+[Azure](https://portal.azure.com/) | Github
+[AWS](https://console.aws.amazon.com/console/) | -
+[Pivotal Tracker](https://www.pivotaltracker.com/signin) | Google
 
 
 
