@@ -42,6 +42,8 @@ Service Name | Trusted login providers
 [Azure](https://portal.azure.com/) | Github
 [AWS](https://console.aws.amazon.com/console/) | -
 [Pivotal Tracker](https://www.pivotaltracker.com/signin) | Google
+[Jamf](https://www.jamf.com/login/) | -
+
 
 
 
