@@ -43,6 +43,7 @@ Service Name | Trusted login providers
 [AWS](https://console.aws.amazon.com/console/) | -
 [Pivotal Tracker](https://www.pivotaltracker.com/signin) | Google
 [Jamf](https://www.jamf.com/login/) | -
+[JumpCloud](https://console.jumpcloud.com/login) | -
 
 
 
