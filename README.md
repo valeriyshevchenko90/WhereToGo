@@ -3,14 +3,8 @@
 
 # Where To Go with account in the corporate environment.
 Due to security assessments of different projects, I found different leaked/exposed accounts on the domain of the organization. But every time it was so difficult to discover the place where I can reuse those credentials and how can I expand my attack surface. 
-This project should help researchers, pentesters, bounty-hunters to expand the risks of compromised accounts in the corporate environment.
- 
- 
- 
-# Story behind WhereToGo project
-> Due Penetration testing activities for one customer it was discovered leaked employee credentials. First of all thouse crdentials were checked on the corporate environment but later on I realized that such credentials could work on other important cloud services. I started collecting such a list of popular technological services which might have high value in case of improper access.  
->
- 
+I started collecting a list of popular technological services which might have high value in case of improper access. This project should help researchers, pentesters, bounty-hunters to expand the risks of compromised accounts in the corporate environment.
+  
  
 # 
 Service Name | Trusted login providers
